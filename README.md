@@ -30,6 +30,11 @@ pip install fathon
 
 ### Para python se requiere ejecutar un script que proporciono aqui
 
+```bash
+git clone https://github.com/BAN03/fathon-instalation
+cd fathon-instalation
+```
+
 ### Instalamos las dependencias, clonamos y ejecutamos el script
 
 ```bash
