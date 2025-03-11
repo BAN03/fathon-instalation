@@ -32,17 +32,17 @@ pip install fathon
 ### Instalamos las dependencias, clonamos y ejecutamos el script
 
 ```bash
-sudo apt install libgsl-dev python3-numpy python3-matplotlib cython3 \
-git clone https://github.com/stfbnc/fathon \
+sudo apt install libgsl-dev python3-numpy python3-matplotlib cython3
+git clone https://github.com/stfbnc/fathon
 python3 repo_changes.py
 ```
 
 ### Construimos e instalamos la libreria
 
 ```bash
-cd fathon \
-python3 setup.py build \
-sudo python3 setup.py install \
+cd fathon 
+python3 setup.py build
+sudo python3 setup.py install
 cythonize -a -i fathon/*.pyx
 ```
 
