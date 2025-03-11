@@ -49,6 +49,5 @@ python3 repo_changes.py
 cd fathon 
 python3 setup.py build
 sudo python3 setup.py install
-cythonize -a -i fathon/*.pyx
 ```
 
