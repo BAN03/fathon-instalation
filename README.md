@@ -46,4 +46,3 @@ sudo python3 setup.py install \
 cythonize -a -i fathon/*.pyx
 ```
 
-
