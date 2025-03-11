@@ -4,6 +4,7 @@
 
 - [Conda](#Conda)
 - [Python3](#Python)
+  - Se requiere el script de este repositorio
 
 ## Conda
 
